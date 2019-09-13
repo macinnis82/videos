@@ -1,3 +1,4 @@
+videos: [
 {
 				id: 1,
 				name: 'ES2015 Arrow Functions',
@@ -77,3 +78,4 @@
 				videoUrl:
 					'https://vue-screencasts.s3.us-east-2.amazonaws.com/video-files/EmberScreencast+115+-+ES2016+Decorators.mp4'
 			}
+	]
